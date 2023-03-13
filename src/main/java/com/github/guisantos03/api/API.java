@@ -15,7 +15,7 @@ public class API {
         throw new UnsupportedOperationException("Essa é uma classe utilitária e não deve ser instanciada");
     }
 
-    private static final String API_KEY = "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";
+    private static final String API_KEY = "";
 
     public static List<ChatCompletionChoice> request(String message) {
 
